@@ -32,3 +32,6 @@ Specific test to run
 - Appium : Automation library for mobile
 - Grappa : Cool assertion for readable test writes assert/expect
 
+## Demo test running
+![Pitonium is running](./pitonium-demo.gif "Test running")
+
