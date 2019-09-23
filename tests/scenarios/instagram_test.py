@@ -1,4 +1,3 @@
-from selene.conditions import visible
 from testlib.ui.screens import home_screen
 from time import sleep
 
