@@ -9,6 +9,7 @@ appium-python-client = "*"
 selene = "==1.0.0a13"
 pytest = "*"
 python-dotenv = "*"
+grappa = "*"
 
 [dev-packages]
 pycodestyle = "*"

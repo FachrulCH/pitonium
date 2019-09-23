@@ -13,6 +13,9 @@ def platform_locator(selectors):
 def accessibility_id(_id):
 	return MobileBy.ACCESSIBILITY_ID, _id
 
+def id(_id):
+	return MobileBy.ID, _id
+
 # def _id(id_name):
 # 	return WebDriverWait(application.instance, 5).until(
 # 		expecting.visibility_of_element_located((
