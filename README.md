@@ -35,3 +35,13 @@ Specific test to run
 ## Demo test running
 ![Pitonium is running](./pitonium-demo.gif "Test running")
 
+
+## Running in multi device
+setup:
+- run 2 instance appium
+- `appium -p 4723` and `appium -p 4724`
+- execute bash to run parllel `./run_android_test.sh`
+
+
+![Pitonium are running](./pitonium-parallel.gif "Test running")
+
