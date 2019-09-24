@@ -10,6 +10,7 @@ selene = "==1.0.0a13"
 pytest = "*"
 python-dotenv = "*"
 grappa = "*"
+allure-pytest = "*"
 
 [dev-packages]
 pycodestyle = "*"
